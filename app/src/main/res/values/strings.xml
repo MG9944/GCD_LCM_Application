@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gcd_lcm_app</string>
+    <string name="result">result</string>
+    <string name="VA">VA</string>
+    <string name="empty">empty</string>
+    <string name="VB">VB</string>
+    <string name="GCD">GCD</string>
+    <string name="vLCM">vLCM</string>
+</resources>
